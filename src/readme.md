@@ -6,4 +6,4 @@ en Internet nice good a repetir trozos predefinidos cuando sea necesario, hacien
 generador verdadero (válido) en la Internet. Usa un diccionario de mas de 200 palabras provenientes 
 del latín, combinadas con estructuras muy útiles de sentencias, para generar texto de Lorem Ipsum que 
 parezca razonable. Este Lorem Ipsum generado siempre estará libre de repeticiones, humor agregado o 
-palabras no características del lenguaje, etc.
+palabras no características del lenguaje, etc. 
